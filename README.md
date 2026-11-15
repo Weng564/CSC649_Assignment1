@@ -61,4 +61,4 @@ Completed
 
 ## Disclaimer
 
-Pinterest is a trademark of Pinterest, Inc. This repository is a non-commercial academic exercise for CSC649 at Universiti Teknologi MARA (UiTM) and is not affiliated with or endorsed by Pinterest, Inc[cite: 5].
+Pinterest is a trademark of Pinterest, Inc. This repository is a non-commercial academic exercise for CSC649 at Universiti Teknologi MARA (UiTM) and is not affiliated with or endorsed by Pinterest, Inc.
